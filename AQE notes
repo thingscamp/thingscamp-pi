@@ -1,0 +1,6 @@
+client-ID = "5378"
+API_key = "63cb37fa-7342-4f73-b195-01b6d62c6221"
+device_pwd = "o8Iq2jNI"
+name = "MQTT-test"
+
+https://api.opensensors.io/v1/messages/topic//users/jargonautical/test?start-date=2015-01-01&end-date=2015-06-01
