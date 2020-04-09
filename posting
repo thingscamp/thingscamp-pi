@@ -1,1 +1,0 @@
-curl -X POST --header "Content-Type: application/json" --header "Accept: application/json" --header "Authorization: api-key 63cb37fa-7342-4f73-b195-01b6d62c6221" -d '{"data": "My First Msg"}' "https://realtime.opensensors.io/v1/topics/users/jargonautical/test?client-id=5378&password=o8Iq2jNI"
